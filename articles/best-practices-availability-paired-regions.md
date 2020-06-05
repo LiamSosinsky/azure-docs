@@ -1,5 +1,5 @@
 ---
-title: Ensure business continuity & disaster recovery using Azure Paired Regions
+title: Ensure application resiliency using Azure regional pairing
 description: Ensure application resiliency using Azure regional pairing
 author: barbkess
 manager: barbkess
@@ -10,7 +10,7 @@ ms.author: barbkess
 ms.custom: references_regions
 ---
 
-# Business continuity and disaster recovery (BCDR): Azure Paired Regions
+# Ensure application resiliency using Azure regional pairing
 
 ## What are paired regions?
 
